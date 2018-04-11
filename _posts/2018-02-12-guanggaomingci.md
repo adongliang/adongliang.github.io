@@ -1,8 +1,20 @@
 ---
 layout: post
 title: 互联网营销和分析常用名词
-category: 正经文章
-description: 互联网营销和分析常用名词-摘自宋星的网站
+categories:
+- 正经文章
+tags: [互联网, 数据分析, 营销]
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  views: '2'
+author:
+  login: dongliang
+  email: dongliang5250@outlook.com
+  display_name: dongliang
+description: 互联网营销和分析常用名词
 ---
 
 

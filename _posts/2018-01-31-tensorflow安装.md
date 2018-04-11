@@ -1,7 +1,19 @@
 ---
-layout:     post
-title:      安装tensorflow-gpu教程
-category: 正经文章
+layout: post
+title: 安装tensorflow-gpu教程
+categories:
+- 正经文章
+tags: [TensorFlow, 神经网络]
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  views: '2'
+author:
+  login: dongliang
+  email: dongliang5250@outlook.com
+  display_name: dongliang
 description: 安装tensorflow-gpu教程
 ---
 #安装tensorflow-gpu教程
