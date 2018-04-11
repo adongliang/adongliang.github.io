@@ -13,4 +13,4 @@ dongliang, 1995, Shanghai
 
 dongliang5250@outlook.com
 
-*  先这样，还没想好写什么。
+先这样，还没想好写什么。
