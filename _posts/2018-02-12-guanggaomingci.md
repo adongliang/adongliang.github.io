@@ -1,7 +1,7 @@
 ---
-layout:     post
-title:      互联网营销和分析常用名词
-category: blog
+layout: post
+title: 互联网营销和分析常用名词
+category: 正经文章
 description: 互联网营销和分析常用名词-摘自宋星的网站
 ---
 

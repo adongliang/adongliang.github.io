@@ -1,7 +1,19 @@
 ---
-layout:     post
-title:      mongodb安装&极简入门
-category: project
+layout: post
+title: mongodb安装&极简入门
+categories:
+- tool
+tags: [mongodb, 数据库]
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  views: '2'
+author:
+  login: dongliang
+  email: dongliang5250@outlook.com
+  display_name: dongliang
 description: mongodb安装&极简入门
 ---
 

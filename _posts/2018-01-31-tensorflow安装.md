@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      安装tensorflow-gpu教程
-category: project
+category: 正经文章
 description: 安装tensorflow-gpu教程
 ---
 #安装tensorflow-gpu教程
