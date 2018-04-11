@@ -2,7 +2,7 @@
 layout: post
 title: mongodb安装&极简入门
 categories:
-- tool
+- 正经文章
 tags: [mongodb, 数据库]
 status: publish
 type: post
