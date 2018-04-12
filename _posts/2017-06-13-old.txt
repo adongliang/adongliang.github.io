@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 将网易云跟帖评论导入 disqus 
+title: 测试 
 date: 2017-08-20
 categories:
-- tool
-tags: [转换器, 云跟帖，disqus]
+- 测试
+tags: []
 status: publish
 type: post
 published: true
@@ -17,4 +17,4 @@ author:
   display_name: slayer
 ---
 
-模版
+test~~
