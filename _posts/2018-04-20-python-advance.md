@@ -30,7 +30,7 @@ description: 先这样
 
 ### 3.创建生成器的方法(2)
 使用yield关键字
-```
+~~~python
 def fib(times):
     n = 0
     a,b = 0,1
@@ -39,12 +39,12 @@ def fib(times):
          a,b = b,a+b
          n+=1
     return 'done'
-```
+~~~
 用for循环调用generator时，发现拿不到generator的return语句的返回值。如果想要拿到返回值，必须捕获StopIteration错误，返回值包含在StopIteration的value中。
 
 
 ### 4.yield的使用示例
-```
+~~~python
 # 多任务执行（可以理解为同时进行）
 def test1()：
 	while True:
@@ -60,7 +60,7 @@ t2 = test2()
 while True:
 	t1.__next__()
 	t2.__next__()
-```
+~~~
 
 ### 5.生成器总结
 生成器是这样一个函数，它记住上一次返回时在函数体中的位置。对生成器函数的第二次（或第 n 次）调用跳转至该函数中间，而上次调用的所有局部变量都保持不变。
@@ -92,7 +92,7 @@ while True:
 3、集合数据类型如 list 、 dict 、 str 等是 Iterable 但不是 Iterator ，不过可以通过 iter() 函数获得一个 Iterator 对象。  
 
 # 装饰器
-```
+~~~python
 #定义函数：完成包裹数据
 def makeBold(fn):
     def wrapped():
@@ -121,16 +121,16 @@ def test3():
 print(test1()))
 print(test2()))
 print(test3()))
-```
+~~~
 运行结果：
-```
+~~~python
 <b>hello world-1</b>
 <i>hello world-2</i>
 <b><i>hello world-3</i></b>
-```
+~~~
 
 **通用类型的装饰器（有无参数、不定长参数、含return）**
-```
+~~~python
 def func(functionName):
 	def func_in(*args, **kwargs):
 		ret = functionName(*args, **kwargs)
@@ -157,4 +157,4 @@ a = test2()
 print('test2 return value is '%a)
 
 test3(11)
-```
+~~~
