@@ -22,7 +22,7 @@ author:
 name = 'xiaoming'  
 print('--------------------------------------------------')  
 print("姓名：%s"%name)  
-```
+~~~
 ## 字符串输入  
 ~~~python
 userName = input('请输入用户名:')  
