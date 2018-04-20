@@ -2,7 +2,7 @@
 layout: post
 title: python-装饰器-生成器-迭代器
 categories:
-- 正经文章
+- python
 tags: [python]
 status: publish
 type: post
