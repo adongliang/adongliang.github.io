@@ -93,7 +93,7 @@ r update is not installed, will zero-out data files.
 喜欢人数
 不喜欢人数
 用户评论(可能多个)***
-```
+~~~json
 db.movie.insert(
  {
    title: 'Forrest Gump', 
@@ -119,7 +119,7 @@ db.movie.insert(
    ]
 }
 )
-```
+~~~
 请注意，这里插入数据之前，我们并不需要先声明movie这个集合里面有哪些项目。我们直接插入就可以了~这一点和SQL不一样，SQL必须先声明一个table里面有哪些列，而MongoDB不需要。
 几点需要注意：
 1. 不同key-value需要用逗号隔开，而key:value中间是用冒号；
@@ -135,7 +135,7 @@ pretty()的作用是规范我们输出的格式，易于阅读。
 - 条件查询数据
 `db.movie.find({'directed_by':'David Fincher'}).pretty()`  
 `db.movie.find({'directed_by':'David Fincher', 'stars':'Morgan Freeman'}).pretty()`  
-```
+~~~json
 db.movie.find(
 {
   $or: 
@@ -143,7 +143,7 @@ db.movie.find(
         {'stars':'Morgan Freeman'}
      ]
 }).pretty()
-```
+~~~
 `db.movie.find({likes:{$lt:200000}}).pretty()`  
 类似的运算符还有：`$lte`:小于或等于；`$gte`:大于或等于；`$ne`:不等于。
 
