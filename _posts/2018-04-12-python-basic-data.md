@@ -18,24 +18,24 @@ author:
 ---
 # 字符串  
 ## 字符串输出  
-```
+~~~python
 name = 'xiaoming'  
 print('--------------------------------------------------')  
 print("姓名：%s"%name)  
 ```
 ## 字符串输入  
-```
+~~~python
 userName = input('请输入用户名:')  
 print("用户名为：%s"%userName)  
-```
+~~~
 ## 字符串常见操作  
-``` 
+~~~python
 name = 'abcdef'  
 print(name[0:3]) 	# 取 下标0~2 的字符  
 print(name[2:]) 	# 取 下标为2开始到最后的字符  
 print(name[1:-1]) 	# 取 下标为1开始 到 最后第2个  之间的字符  
 print(name[1:5:2]) 	# 取 下标为1开始到5  间隔两个取一次  
-```
+~~~
 
 `a = 'hello world ha ni ge da tou gui'`
 
@@ -95,17 +95,17 @@ print(name[1:5:2]) 	# 取 下标为1开始到5  间隔两个取一次
 
 # 列表  
 **列表循环**    
-```
+~~~python
 namesList = ['xiaoWang','xiaoZhang','xiaoHua']
 for name in namesList:
 print(name)
-```
-```
+~~~
+~~~python
 i = 0
 while i<len(nameList):
     print(namesList[i])
     i+=1
-```
+~~~
 **添加元素("增"append, extend, insert)**   
 通过append可以向列表添加元素 
 `A.append(temp)`   
@@ -115,7 +115,7 @@ insert(index, object) 在指定位置index前插入元素object
 `a.insert(1, 3)`    
 
 **修改元素("改")**      
-```
+~~~python
 A = ['xiaoWang','xiaoZhang','xiaoHua']
 
 print("-----修改之前，列表A的数据-----")
@@ -126,7 +126,7 @@ A[1] = 'xiaoLu'
 print("-----修改之后，列表A的数据-----")
 for tempName in A:
     print(tempName)
-```
+~~~
 
 **查找元素("查"in, not in, index, count)**    
 python中查找的常用方法为：
