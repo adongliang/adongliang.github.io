@@ -46,11 +46,11 @@ def fib(times):
 ### 4.yield的使用示例
 ~~~python
 # 多任务执行（可以理解为同时进行）
-def test1()：
+def test1():
 	while True:
 		print('--1--')
 		yield None
-def test2()：
+def test2():
 	while True:
 		print('--2--')
 		yield None
@@ -123,7 +123,7 @@ print(test2()))
 print(test3()))
 ~~~
 运行结果：
-~~~python
+~~~html
 <b>hello world-1</b>
 <i>hello world-2</i>
 <b><i>hello world-3</i></b>
