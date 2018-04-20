@@ -93,7 +93,7 @@ r update is not installed, will zero-out data files.
 喜欢人数
 不喜欢人数
 用户评论(可能多个)***
-~~~json
+~~~sql
 db.movie.insert(
  {
    title: 'Forrest Gump', 
@@ -135,7 +135,7 @@ pretty()的作用是规范我们输出的格式，易于阅读。
 - 条件查询数据
 `db.movie.find({'directed_by':'David Fincher'}).pretty()`  
 `db.movie.find({'directed_by':'David Fincher', 'stars':'Morgan Freeman'}).pretty()`  
-~~~json
+~~~sql
 db.movie.find(
 {
   $or: 
