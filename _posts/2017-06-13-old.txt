@@ -16,5 +16,6 @@ author:
   email: dongyado@gmail.com
   display_name: slayer
 ---
-
-test~~
+* TOC
+{:toc}
+这是一条测试~
