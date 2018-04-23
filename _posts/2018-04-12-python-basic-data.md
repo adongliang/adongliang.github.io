@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python基础-数据类型 
+title: python-字符串-列表-元组-字典 
 date: 2018-04-12
 categories:
 - python
@@ -16,6 +16,9 @@ author:
   email: dongliang5250@gmail.com
   display_name: dongliang
 ---
+* TOC
+{:toc}
+
 # 字符串  
 ## 字符串输出  
 ~~~python
