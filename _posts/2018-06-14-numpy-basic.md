@@ -1,7 +1,7 @@
 ---
 layout: post
-title: hello flask
-date: 2018-05-08
+title: hello numpy
+date: 2018-06-14
 categories:
 - 正经文章
 tags: [python]
@@ -12,8 +12,8 @@ meta:
   _edit_last: '1'
   views: '2'
 author:
-  login: slayer
-  email: dongyado@gmail.com
+  login: 
+  email: dongliang5250@gmail.com
   display_name: slayer
 ---
 * TOC
