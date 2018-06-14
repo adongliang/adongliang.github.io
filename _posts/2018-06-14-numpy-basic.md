@@ -24,11 +24,11 @@ author:
 	Numpy是Python的一个很重要的第三方库，很多其他科学计算的第三方库都是以Numpy为基础建立的。
 	Numpy的一个重要特性是它的数组计算。
 	在使用Numpy之前，我们需要导入numpy包：
-	```
+	```python
 	import numpy as np
 	```
 * 数组上的操作
-	```
+	```python
 	a = [1, 2, 3, 4]
 	b = [2, 3, 4, 5]
 	a = array(a)
