@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hello python
+title: python入门1
 date: 2018-06-01
 categories:
 - 正经文章
