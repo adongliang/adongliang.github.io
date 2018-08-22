@@ -45,7 +45,7 @@ description: 用户力
 - 互联网公司的价值，不是按照销售额利润来计算，而是由用户量，用户类型决定
 - 工业思维是从设计者出发，互联网从用户出发（小米遥控）
 ## 图1
-![互联网]('./images/userpower/01.png')
+![互联网](https://adongliang.github.io/images/userpower/01.png)
 
 # 二、用户需求：就是一个“更”字
 ## 2.1 发现用户需求：2个发现
@@ -82,7 +82,7 @@ description: 用户力
 	* 集中资源，明确目标，提升效率为用户服务
 - 一个故事
 ## 图2
-![用户需求]('./images/userpower/02.png')
+![用户需求](https://adongliang.github.io/images/userpower/02.png)
 
 # 三、产品设计：核心是用户需求驱动
 ## 3.1 产品定位：一句话说明白
@@ -131,7 +131,7 @@ description: 用户力
 - 不破坏用户习惯
 - 超出用户预期
 ## 图3
-![产品设计]('./images/userpower/03.png')
+![产品设计](https://adongliang.github.io/images/userpower/03.png)
 
 # 四、网络运营：只有好的产品才能运营成功
 ## 4.1 酷6运营案例
@@ -205,7 +205,7 @@ description: 用户力
 	* 产品页引导：相关推荐；制造火爆氛围（比如销量数字）；紧跟热点（应景产品提升转化率）
 	* 用户使用流程：不能出错（重点突出）；步骤越少越好
 ## 图4
-![运营]('./images/userpower/04.png')
+![运营](https://adongliang.github.io/images/userpower/04.png)
 
 # 五、商业模式：等于用户价值模式
 ## 5.1 收入是商业模式的结果
@@ -255,8 +255,7 @@ description: 用户力
 	* 核心产品是大用户量的垄断性产品，可以延伸出多种业务和收入方式
 	* 围绕核心产品构建生态圈，形成自由体系的生态平衡
 ## 图5
-![商业](05.png)
-![商业](./images/userpower/05.png)
+![商业](https://adongliang.github.io/images/userpower/05.png)
 
 
 
