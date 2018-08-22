@@ -257,6 +257,8 @@ description: 用户力
 ## 图5
 ![商业]('/images/05.png')
 
+![商业]('05.png')
+
 
 
 
