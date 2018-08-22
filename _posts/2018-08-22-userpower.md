@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用户力摘要
+title: 《用户力》摘要
 categories:
 - 正经文章
 tags: [产品]
