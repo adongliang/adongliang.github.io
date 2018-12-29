@@ -9,7 +9,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
-  views: '29'
+  views: '2'
 author:
   login: dongliang
   email: dongliang5250@outlook.com
