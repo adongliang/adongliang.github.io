@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 透过结构看世界 思维导图
+title: 透过结构看世界
 categories:
 - 正经文章
 tags: [产品]
