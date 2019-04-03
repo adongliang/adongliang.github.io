@@ -19,7 +19,7 @@ description: 透过结构看世界
 ## [网页版链接](https://adongliang.github.io/structure/structure.html)
 
 
-## 图片版
+## 图片版 右击打开图片可放大
 ![透过结构看世界](https://adongliang.github.io/images/structure/01.png)
 
 
