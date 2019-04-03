@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《用户力》摘要
+title: 透过结构看世界
 categories:
 - 正经文章
 tags: [产品]
@@ -14,9 +14,12 @@ author:
   login: dongliang
   email: dongliang5250@outlook.com
   display_name: dongliang
-description: 用户力
+description: 透过结构看世界
 ---
-# 这是一个测试文章
+## [网页版链接](https://adongliang.github.io/structure/structure.html)
 
+
+## 图片版
+![透过结构看世界](https://adongliang.github.io/images/structure/01.png)
 
 
